@@ -1,4 +1,4 @@
-# Hello everyone, I'm Carlos 👋 
+# Hello there, I'm Carlos 👋 
 ## I'm simply a physicist who is finishing a master in astrophysics.
 
 - 🔭 I'm currently finishing the master's final project, that will be uploaded to this GitHub
