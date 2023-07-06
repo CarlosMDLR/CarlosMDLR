@@ -1,5 +1,5 @@
 # :space_invader: Hello there, I'm Carlos :space_invader:
-## I'm simply a physicist who is finishing a master in astrophysics.
+## I'm simply a physicist who is dealing with a Master in Astrophysics :telescope: :stars:
 
-- 🔭 I'm currently finishing the master's final project, that will be uploaded to this GitHub
-- 🥅 2022 Goals: finish the master and that everything goes well
+- :computer: I am currently working as a collaborator in a research project for the ULPGC while finishing my Master`s Thesis
+- :bookmark_tabs: 2023 Goals: finish both previous projects and continue advancing in astrophysics research
